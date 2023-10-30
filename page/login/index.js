@@ -41,3 +41,4 @@ document.querySelector('.btn').addEventListener('click', () => {
     console.dir(error.response.data.message)
   })
 })
+console.log('about-bug');
