@@ -42,3 +42,5 @@ document.querySelector('.btn').addEventListener('click', () => {
   })
 })
 console.log('about-bug');
+console.log('about-bug 2');
+
